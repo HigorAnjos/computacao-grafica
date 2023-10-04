@@ -66,19 +66,19 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "C:/repositorios/computacao-grafica/deps/glm"
+					"path" : "C:/repositorios/computacao-grafica/playground/deps/glm"
 				},
 				{
 					"backtrace" : 4,
-					"path" : "C:/repositorios/computacao-grafica/deps/glfw/include"
+					"path" : "C:/repositorios/computacao-grafica/playground/deps/glfw/include"
 				},
 				{
 					"backtrace" : 4,
-					"path" : "C:/repositorios/computacao-grafica/deps/glew/include"
+					"path" : "C:/repositorios/computacao-grafica/playground/deps/glew/include"
 				},
 				{
 					"backtrace" : 4,
-					"path" : "C:/repositorios/computacao-grafica/deps/stb"
+					"path" : "C:/repositorios/computacao-grafica/playground/deps/stb"
 				}
 			],
 			"language" : "CXX",
@@ -103,12 +103,12 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-LIBPATH:C:\\repositorios\\computacao-grafica\\deps\\glfw\\lib-vc2019",
+				"fragment" : "-LIBPATH:C:\\repositorios\\computacao-grafica\\playground\\deps\\glfw\\lib-vc2019",
 				"role" : "libraryPath"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-LIBPATH:C:\\repositorios\\computacao-grafica\\deps\\glew\\lib\\Release\\x64",
+				"fragment" : "-LIBPATH:C:\\repositorios\\computacao-grafica\\playground\\deps\\glew\\lib\\Release\\x64",
 				"role" : "libraryPath"
 			},
 			{

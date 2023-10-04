@@ -1,8 +1,8 @@
-# Install script for directory: C:/repositorios/computacao-grafica
+# Install script for directory: C:/repositorios/computacao-grafica/playground
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/repositorios/computacao-grafica/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "C:/repositorios/computacao-grafica/playground/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/repositorios/computacao-grafica/out/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/repositorios/computacao-grafica/playground/out/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
